@@ -1,8 +1,19 @@
 <h1 align="center">Hi 👋, I'm Apu Nath</h1>
-<h3 align="center">A passionate MARN developer from Bangladesh</h3>
+<h3 align="center">Learning Web Development | Building Projects & Improving Skills</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=opunath26&label=Profile%20views&color=0e75b6&style=flat" alt="opunath26" /> </p>
+ <h3>🧑‍💻 About Me</h3>
+<p>I'm a CSE student and an aspiring software & web developer.  
+I enjoy learning new technologies and building real-world projects to sharpen my skills.  
+Currently focusing on frontend, backend, and API development.
+
+### 🔭 What I'm Currently Doing
+- Exploring **Next.js** and modern frontend tools  
+- Building a **tourism website** using React  
+- Practicing backend development & authentication  
+- Learning data structures and improving problem-solving skills  
+</p>
 
 - 🌱 I’m currently learning **Node.js**
 
@@ -41,8 +52,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![]([https://github-contributor-stats.vercel.app/api?username=opunath26&limit=5&theme=dark&combine_all_yearly_contributions=true](https://github.com/opunath26/skillpath-client.git))
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=opunath26&icon=0&color=0)](https://visitcount.itsvg.in)
