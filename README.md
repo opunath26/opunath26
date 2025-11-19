@@ -29,10 +29,43 @@ Currently focusing on frontend, backend, and API development.
 <a href="https://www.youtube.com/c/@artistop-yn3ne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@artistop-yn3ne" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 🔤 Languages & Tools
+
+### 🔤 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,c" />
+</p>
+
+### 🎨 CSS Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,daisyui" />
+</p>
+
+### ⚛️ JavaScript Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />
+</p>
+
+### 🗄️ Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
+
+### 🚀 Deployment Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel,netlify" />
+</p>
+
+### 🎨 Design & Graphics
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ai,ps" />
+</p>
+
+### 🧰 Tools & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,vscode,git" />
+</p>
+
 
 <!-- Snake Game Repo View -->
 
@@ -40,17 +73,68 @@ Currently focusing on frontend, backend, and API development.
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+## 🏆 GitHub Achievements  
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=opunath26&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=opunath26&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=opunath26&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=opunath26&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+  <img src="https://github-profile-trophy.vercel.app/?username=reshbyte&theme=onedark&margin-w=10" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</p>
+
+
+### 📁 GitHub Statistics
+
+<p align="center">
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=reshbyte&show_icons=true&theme=tokyonight&hide_border=false" />
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reshbyte&layout=compact&theme=tokyonight&hide_border=false" />
+
+</p>
+
+
+
+---
+
+
+
+### 🔥 Streak Stats
+
+<p align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reshbyte&theme=tokyonight&hide_border=false" />
+
+</p>
+
+
+
+---
+
+
+
+---
+
+
+
+## 📌 Pinned Projects  
+
+<p align="center">
+
+  <a href="https://github.com/opunath26/skillpath-client" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=opunath26&repo=skillpath-client&theme=tokyonight&hide_border=false" />
+  </a>
+
+  <a href="https://github.com/opunath26/apporbit-store" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=opunath26&repo=apporbit-store&theme=tokyonight&hide_border=false" />
+  </a>
+
+  <a href="https://github.com/opunath26/emergency-hotline-bd" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=opunath26&repo=emergency-hotline-bd&theme=tokyonight&hide_border=false" />
+  </a>
+
+</p>
+
+
 
 
 
