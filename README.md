@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/23TypqFw/Chat-GPT-Image-Nov-19-2025-05-03-43-PM.png" alt="Coding GIF" width="400"/>
+  <img src="https://i.ibb.co/23TypqFw/banner.png" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Apu Nath</h1>
