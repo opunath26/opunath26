@@ -1,9 +1,20 @@
+<p align="center">
+
+  <img src="https://i.ibb.co.com/23TypqFw/Chat-GPT-Image-Nov-19-2025-05-03-43-PM.png" 
+
+       alt="cover image" 
+
+       width="100%" />
+
+</p>
 <h1 align="center">Hi 👋, I'm Apu Nath</h1>
 <h3 align="center">Learning Web Development | Building Projects & Improving Skills</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=opunath26&label=Profile%20views&color=0e75b6&style=flat" alt="opunath26" /> </p>
- <h3>🧑‍💻 About Me</h3>
+ 
+## 🧑‍💻 About Me
+
 <p>I'm a CSE student and an aspiring software & web developer.  
 I enjoy learning new technologies and building real-world projects to sharpen my skills.  
 Currently focusing on frontend, backend, and API development.
@@ -20,6 +31,7 @@ Currently focusing on frontend, backend, and API development.
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **aputhecoder26@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
