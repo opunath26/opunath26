@@ -1,12 +1,7 @@
 <p align="center">
-
-  <img src="https://i.ibb.co.com/23TypqFw/Chat-GPT-Image-Nov-19-2025-05-03-43-PM.png" 
-
-       alt="cover image" 
-
-       width="100%" />
-
+  <img src="https://i.ibb.co/23TypqFw/Chat-GPT-Image-Nov-19-2025-05-03-43-PM.png" alt="Coding GIF" width="400"/>
 </p>
+
 <h1 align="center">Hi 👋, I'm Apu Nath</h1>
 <h3 align="center">Learning Web Development | Building Projects & Improving Skills</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
