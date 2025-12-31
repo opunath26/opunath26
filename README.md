@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/23TypqFw/banner.png" />
+  <img src="https://i.ibb.co.com/q3YW1xZ0/banner.png" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Apu Nath</h1>
