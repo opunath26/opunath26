@@ -83,63 +83,44 @@ Currently focusing on frontend, backend, and API development.
 ## 🏆 GitHub Achievements  
 
 <p align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=reshbyte&theme=onedark&margin-w=10" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=opunath26&theme=onedark&margin-w=10" />
 </p>
 
+---
 
 ### 📁 GitHub Statistics
 
 <p align="center">
-
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=reshbyte&show_icons=true&theme=tokyonight&hide_border=false" />
-
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reshbyte&layout=compact&theme=tokyonight&hide_border=false" />
-
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=opunath26&show_icons=true&theme=tokyonight&hide_border=false" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opunath26&layout=compact&theme=tokyonight&hide_border=false" />
 </p>
 
-
-
 ---
-
-
 
 ### 🔥 Streak Stats
 
 <p align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reshbyte&theme=tokyonight&hide_border=false" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=opunath26&theme=tokyonight&hide_border=false" />
 </p>
 
-
-
 ---
-
-
-
----
-
-
 
 ## 📌 Pinned Projects  
 
 <p align="center">
-
-  <a href="https://github.com/opunath26/skillpath-client" target="_blank">
+  <a href="https://github.com/opunath26/skillpath-client">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=opunath26&repo=skillpath-client&theme=tokyonight&hide_border=false" />
   </a>
 
-  <a href="https://github.com/opunath26/apporbit-store" target="_blank">
+  <a href="https://github.com/opunath26/apporbit-store">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=opunath26&repo=apporbit-store&theme=tokyonight&hide_border=false" />
   </a>
 
-  <a href="https://github.com/opunath26/emergency-hotline-bd" target="_blank">
+  <a href="https://github.com/opunath26/emergency-hotline-bd">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=opunath26&repo=emergency-hotline-bd&theme=tokyonight&hide_border=false" />
   </a>
-
 </p>
+
 
 
 
