@@ -25,7 +25,7 @@ Currently focusing on frontend, backend, and API development.
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **aputhecoder26@gmail.com**
+- 📫 How to reach me **apunath1026@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
